@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Laravel Boost
+/boost.json
+/GEMINI.md
+/.gemini
