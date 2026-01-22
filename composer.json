@@ -11,8 +11,11 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
+        "laravel/jetstream": "*",
         "laravel/mcp": "^0.5.2",
-        "laravel/tinker": "^2.10.1"
+        "laravel/sanctum": "^4.0",
+        "laravel/tinker": "^2.10.1",
+        "livewire/livewire": "^3.6.4"
     },
     "require-dev": {
         "beyondcode/laravel-er-diagram-generator": "^5.0",
